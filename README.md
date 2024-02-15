@@ -1,5 +1,7 @@
 # Unity3 Analog Clock Project
 
+A simple Unity3D project showcasing an interactive analog clock created using basic primitives like cylinders, cubes, and Canvas UI elements. The clock dynamically updates in real-time to display the current hour, minute, and second, making it an ideal learning resource for Unity beginners.
+
 This project is a simple analog clock implemented in Unity3. The clock consists of a cylinder for the clock face, cubes for the hour and minute hands, and a Canvas for displaying the clock numbers.
 
 ## Features
