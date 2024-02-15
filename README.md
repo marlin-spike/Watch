@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 
 ## Dependencies
 
-- Unity3 (version X.X.X)
+- Unity3 (version 2022.3.16f1)
 - No additional dependencies required.
 
 ## Usage
